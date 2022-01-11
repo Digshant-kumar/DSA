@@ -5,7 +5,7 @@ int main()
 {
     
     int n;
-    cout<<"Enter number: ";
+    cout<<"Enter number: why should i enter do it by yourself ";
     cin>>n;
     for(int i=0;i<n;i++)
     {
