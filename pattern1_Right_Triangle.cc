@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    
+    cout<<"isko bhi add krde";
     int n;
     cout<<"Enter number of lines: ";
     cin>>n;
